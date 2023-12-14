@@ -1,0 +1,9 @@
+2023-12-14 01:30:57,144 - INFO - Started server process [3444]
+2023-12-14 01:30:57,144 - INFO - Waiting for application startup.
+2023-12-14 01:30:57,145 - INFO - Application startup complete.
+2023-12-14 01:30:57,145 - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-12-14 01:31:08,925 - INFO - 127.0.0.1:62753 - "GET / HTTP/1.1" 200
+2023-12-14 01:31:43,859 - INFO - Shutting down
+2023-12-14 01:31:43,969 - INFO - Waiting for application shutdown.
+2023-12-14 01:31:43,969 - INFO - Application shutdown complete.
+2023-12-14 01:31:43,969 - INFO - Finished server process [3444]
